@@ -1,0 +1,28 @@
+#This file contains the information on proxy servers
+#You're free to add new proxy servers on this file or delete old ones
+#Listing format -> [proxy server ip address]:[port used]
+#The lines that begin with the character '#' are commentaries
+
+#Thai Proxies
+
+110.164.217.171:8080
+223.25.195.68:8080
+110.171.40.211:3128
+110.171.148.197:3128
+58.97.99.237:80
+
+#Australian Proxies
+
+202.173.142.72:80
+202.165.88.109:80
+210.9.41.116:80
+123.200.155.65:8081
+203.123.83.41:3128
+
+#Japanese Proxies
+
+211.130.153.243:80
+49.212.138.208:8080
+219.94.243.100:8080
+202.249.24.9:80
+106.187.92.233:8080
